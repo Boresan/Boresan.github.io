@@ -1,0 +1,4 @@
+CREATE TABLE lpgame (id INTEGER PRIMARY KEY, numero INTEGER, pseudo TEXT, lp INTEGER );
+
+INSERT INTO lpgame VALUES (8, 1, "HatSona Miku", 256);
+INSERT INTO lpgame VALUES (8, 2, "HatSona Miku", 302);
