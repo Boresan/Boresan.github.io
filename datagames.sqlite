@@ -1,4 +1,29 @@
-CREATE TABLE lpgame (id INTEGER PRIMARY KEY, numero INTEGER, pseudo TEXT, lp INTEGER );
+CREATE TABLE lpgame (id INTEGER PRIMARY KEY, numero INTEGER, pseudo TEXT, lp INTEGER);
 
-INSERT INTO lpgame VALUES (8, 1, "HatSona Miku", 256);
+INSERT INTO lpgame VALUES (1009, 9, "le bosss du 57", 1345);
+
+INSERT INTO lpgame VALUES (2010, 10, "EzSupp", 993);
+
+INSERT INTO lpgame VALUES (3001, 1, "KingLord Pingu", 454);
+
+INSERT INTO lpgame VALUES (4, 2, "HatSona Miku", 302);
+
+INSERT INTO lpgame VALUES (5, 2, "HatSona Miku", 302);
+
+INSERT INTO lpgame VALUES (6001, 1, "ZAkLAREN", 400);
+INSERT INTO lpgame VALUES (6002, 2, "ZAkLAREN", 436);
+INSERT INTO lpgame VALUES (6010, 10, "ZAkLAREN", 534);
+INSERT INTO lpgame VALUES (6011, 11, "ZAkLAREN", 554);
+INSERT INTO lpgame VALUES (6012, 12, "ZAkLAREN", 535);
+INSERT INTO lpgame VALUES (6013, 13, "ZAkLAREN", 557);
+
+
+
+INSERT INTO lpgame VALUES (7, 2, "HatSona Miku", 302);
+
 INSERT INTO lpgame VALUES (8, 2, "HatSona Miku", 302);
+
+INSERT INTO lpgame VALUES (9, 2, "HatSona Miku", 302);
+
+
+SELECT * FROM lpgame;
