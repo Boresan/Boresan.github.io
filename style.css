@@ -51,3 +51,23 @@
       float: none;
     }
   }
+h1 {
+    font : Verdana;
+    color : blue;
+    background-color : lightblue;
+}
+
+h2 {
+    font : Verdana;
+    color : red;
+    background-color : lightcoral;
+}
+
+p {
+    background-color: lightgray;
+}
+
+.list {
+    color : green;
+    background-color: lightgreen;
+}
