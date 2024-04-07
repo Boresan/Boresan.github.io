@@ -71,3 +71,20 @@ p {
     color : green;
     background-color: lightgreen;
 }
+
+.table_words{
+  border : 3px solid;
+  border-color : darkgray;
+  border-collapse : collapse;
+
+  background-color : whitesmoke;
+
+  padding : 0 3% 0 3%;
+
+  text-align : center
+
+}
+
+.table_words th, .table_words td {
+  border : 1px solid;
+}
