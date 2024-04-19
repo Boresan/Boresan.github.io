@@ -39,12 +39,12 @@ Bon après, faut pas se mentir, c'est ~~immonde~~ pas très beau et en pleine co
 
 - [ ] Présentation de chaque partie
 
-|   Parties   | Titre | Résumé | Détails |
-|-------------|-------|--------|---------|
-|   Accueil   |  [ ]  |  [ ]   |   [ ]   |
-| Vocabulaire |  [ ]  |  [ ]   |   [ ]   |
-|    Kanas    |  [ ]  |  [ ]   |   [ ]   |
-|     Etc     |  [ ]  |  [ ]   |   [ ]   |
+|   Parties   | Titre  | Résumé  | Détails  |
+|-------------|--------|---------|----------|
+|   Accueil   | - [ ]  | - [ ]   |  - [ ]   |
+| Vocabulaire | - [ ]  | - [ ]   |  - [ ]   |
+|    Kanas    | - [ ]  | - [ ]   |  - [ ]   |
+|     Etc     | - [ ]  | - [ ]   |  - [ ]   |
 
 ### Vocabulaire
 
