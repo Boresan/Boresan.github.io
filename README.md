@@ -39,12 +39,12 @@ Bon après, faut pas se mentir, c'est ~~immonde~~ pas très beau et en pleine co
 
 - [ ] Présentation de chaque partie
 
-|   Parties   | Titre  | Résumé  | Détails  |
-|-------------|--------|---------|----------|
-|   Accueil   |<li>- [ ] </li>|<li>- [ ] </li>|<li>- [ ] </li>|
-| Vocabulaire |<li>- [ ] </li>|<li>- [ ] </li>|<li>- [ ] </li>|
-|    Kanas    |<li>- [ ] </li>|<li>- [ ] </li>|<li>- [ ] </li>|
-|     Etc     |<li>- [ ] </li>|<li>- [ ] </li>|<li>- [ ] </li>|
+|   Parties   |      Titre      |     Résumé      |     Détails     |
+|-------------|-----------------|-----------------|-----------------|
+|   Accueil   | <li>- [ ] </li> | <li>- [ ] </li> | <li>- [ ] </li> |
+| Vocabulaire | <li>- [ ] </li> | <li>- [ ] </li> | <li>- [ ] </li> |
+|    Kanas    | <li>- [ ] </li> | <li>- [ ] </li> | <li>- [ ] </li> |
+|     Etc     | <li>- [ ] </li> | <li>- [ ] </li> | <li>- [ ] </li> |
 
 ### Vocabulaire
 
